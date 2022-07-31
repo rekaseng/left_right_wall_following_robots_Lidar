@@ -1,0 +1,9 @@
+3 BITI
+Section: S1
+Group: G1
+
+Full Name: Reca Seng Binti Mohd Fadzil Seng
+Matric Number: B031910187
+
+Write below a short explanation (how it works, challenges, limitations, etc.) on your simulation answer:
+The maze_left file runs the left-wall while the random_drive runs the right-wall.

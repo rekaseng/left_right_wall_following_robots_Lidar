@@ -1,0 +1,9 @@
+# Environment
+world 00-maze1-v3.maz
+
+# Set visualization on for PSD
+settings VIS TRACE
+
+# Robot description using "S" and "U" in maze as start position
+S4 S 90 02-maze_left.py
+S4 U 90 03-random_drive.py
